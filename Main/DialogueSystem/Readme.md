@@ -1,1 +1,1 @@
-In this folder you will find implementation of Dialogue system in Unity using node system. To start you need to donwload custom package called XNode https://github.com/Siccity/xNode and send all this files into your project.
+In this folder, you will find an implementation of Dialogue system in Unity using the node system. To start you need to download a custom package called XNode https://github.com/Siccity/xNode and send all these files into your project.
